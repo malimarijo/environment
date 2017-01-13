@@ -5,9 +5,9 @@ syntax enable        " enable syntax processing
 set tabstop=3	    	" number of visual spaces per TAB
 set softtabstop=3   	" number of spaces in tab when editing
 set expandtab	    	" tabs are spaces
-set smartindent      " indenting in relation to syntax/style of file
+"set smartindent      " indenting in relation to syntax/style of file
 set autoindent       " apply current line indent to next one
-
+inoremap {<CR> {<CR>}<C-o>O 
 "UI Config
 set number	      	" show line numbers
 set showcmd		      " show last command in bottom right
