@@ -1,0 +1,11 @@
+#This is a list of interesting python links that I want to read
+#or have already read but don't want to forget where they are    
+
+100 numpy excercises
+http://www.labri.fr/perso/nrougier/teaching/numpy.100/
+
+Scipy Lecture notes
+http://www.scipy-lectures.org/
+January 13, 2017 - Stopped at 1.3. NumPy: ... chapter
+    
+    
