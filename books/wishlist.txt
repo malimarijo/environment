@@ -5,3 +5,6 @@
 #This list is alive since January 13, 2017
 Deep Learning(Adaptive Computation and Machine Learning series)
 https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/ref=sr_1_1?ie=UTF8&qid=1472485235&sr=8-1&keywords=deep+learning+book
+
+A First Course in Multivariate Statistics
+http://www.springer.com/gp/book/9780387982069
