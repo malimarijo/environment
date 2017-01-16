@@ -9,13 +9,9 @@ http://www.labri.fr/perso/nrougier/teaching/numpy.100/
 Marked: Jan 13, 2017
 Interrupt: Jan 15, 2017, Excercise nr. 43
 
-Scipy Lecture notes
-http://www.scipy-lectures.org/
-Interrupt: Jan 13, 2017 - Stopped at 1.3. NumPy: ... chapter
-    
 A Guide to Deep Learning by YN**2
 yerevann.com/a-guide-to-deep-learning
-Interrupt: Jan 14, 2017 - Stopped at Deep learning, chapter 4: Numerical computation, 4.3.1 Beyond the Gradient
+Interrupt: Jan 16, 2017 - Stopped at Scipy lecture notes (1.3.3 NumPy...)
 
 Introduction to PCA
 http://www.lauradhamilton.com/introduction-to-principal-component-analysis-pca

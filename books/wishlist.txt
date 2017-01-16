@@ -8,3 +8,9 @@ https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/
 
 A First Course in Multivariate Statistics
 http://www.springer.com/gp/book/9780387982069
+
+Vector Calculus, Linear Algebra, and Differential Forms A Unified Approach
+https://www.amazon.com/Vector-Calculus-Linear-Algebra-Differential/dp/0971576653
+
+Electricity and Magnetism (Berkeley Physics Course)
+https://www.amazon.com/Electricity-Magnetism-Vol-II-Berkeley/dp/0070049084
