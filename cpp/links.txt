@@ -1,0 +1,11 @@
+#This is a list of interesting c++ links that I want to read
+#or have already read but don't want to forget where they are    
+
+#Data will be added chronologically, if I do not touch something
+#longer than 4 months it should be erased
+#Finished goes to bottom
+
+Notes on Programming, Stepanov
+stepanovpapers.com/notes.pdf
+Marked: Jan 13, 2017
+Interrupted: Jan 17, 2017 - Stopped at page 64 (Lecture 8. Order selection of up to 5 objects)
