@@ -18,11 +18,11 @@ Marked: Jan 15, 2017
 
 100 numpy excercises
 http://www.labri.fr/perso/nrougier/teaching/numpy.100/
-Interrupt: Jan 18, 2017, Excercise nr. 53/100
+Interrupt: Jan 19, 2017, Excercise nr. 63/100
 
 A Guide to Deep Learning by YN**2
 yerevann.com/a-guide-to-deep-learning
-Interrupt: Jan 18, 2017 - Stopped at Scipy lecture notes (1.5.6 scipy.stats)
+Interrupt: Jan 18, 2017 - Stopped at Scipy lecture notes (2. Advanced topics)
 
 Introduction to PCA
 http://www.lauradhamilton.com/introduction-to-principal-component-analysis-pca
