@@ -18,8 +18,7 @@ Marked: Jan 15, 2017
 
 100 numpy excercises
 http://www.labri.fr/perso/nrougier/teaching/numpy.100/
-Marked: Jan 13, 2017
-Interrupt: Jan 18, 2017, Excercise nr. 53
+Interrupt: Jan 18, 2017, Excercise nr. 53/100
 
 A Guide to Deep Learning by YN**2
 yerevann.com/a-guide-to-deep-learning

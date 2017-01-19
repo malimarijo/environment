@@ -1,3 +1,7 @@
+execute pathogen#infect()
+syntax on
+"filetype plugin indent on
+
 "Colors
 "colorscheme badwolf " awesome colorscheme
 syntax enable        " enable syntax processing
