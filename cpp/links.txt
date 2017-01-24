@@ -8,4 +8,4 @@
 Notes on Programming, Stepanov
 stepanovpapers.com/notes.pdf
 Marked: Jan 13, 2017
-Interrupted: Jan 20, 2017 - Stopped at page 69 (Lecture 9. Function objects9. Function objects9. Function objects9. Function objects9. Function objects9. Function objects9. Function objects9. Function objects9. Function objects)
+Interrupted: Jan 20, 2017 - Stopped at page 83 (Lecture 10.2. Greatest common divisor)

@@ -1,0 +1,27 @@
+#This is a list of interesting AI and ML related links that I want to read
+#or have already read but don't want to forget where they are    
+
+#Data will be added chronologically, if I do not touch something
+#longer than 4 months it should be erased
+
+
+Probability Theory: The logic of science, Jaynes [2003]
+http://bayes.wustl.edu/etj/prob/book.pdf
+Marked: Jan 14, 2017
+
+Truth and probability, Ramsey(1926)
+https://core.ac.uk/download/pdf/7048428.pdf
+Marked: Jan 15, 2017
+
+A Guide to Deep Learning by YN**2
+yerevann.com/a-guide-to-deep-learning
+Interrupt: Jan 18, 2017 - Stopped at Scipy lecture notes (2.2 Advanced numpy)
+
+Introduction to PCA
+http://www.lauradhamilton.com/introduction-to-principal-component-analysis-pca
+Finished: Jan 13, 2017
+
+PCA for dummies
+https://georgemdallas.wordpress.com/2013/10/30/principal-component-analysis-4-dummies-eigenvectors-eigenvalues-and-dimension-reduction/
+Finished: Jan 13, 2017
+
