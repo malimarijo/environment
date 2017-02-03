@@ -8,4 +8,20 @@
 Notes on Programming, Stepanov
 stepanovpapers.com/notes.pdf
 Marked: Jan 13, 2017
-Interrupted: Jan 20, 2017 - Stopped at page 83 (Lecture 10.2. Greatest common divisor)
+Interrupted: Jan 25, 2017 - Stopped at page 89 (Lecture 10.2.2 Stein's algorithm)
+
+STL about STL
+https://channel9.msdn.com/Series/C9-Lectures-Stephan-T-Lavavej-Standard-Template-Library-STL-/C9-Lectures-Stephan-T-Lavavej-Standard-Template-Library-STL-3-of-n
+Interrupted: Jan 20, 2017 
+
+A guide to getting started with boostasio
+https://www.gamedev.net/blog/950/entry-2249317-a-guide-to-getting-started-with-boostasio/?pg=1
+Marked: Feb 02, 2017
+
+About boost::asio::io_service
+http://stackoverflow.com/questions/15568100/confused-when-boostasioio-service-run-method-blocks-unblocks
+Finished: Feb 01, 2017
+
+Chapter 32. Boost.Asio
+https://theboostcpplibraries.com/boost.asio
+Finished: Feb 03, 2017

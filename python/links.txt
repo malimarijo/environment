@@ -16,3 +16,9 @@ Code like a Pythonista
 http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html
 Interrupt: Jan 22, 2017 - Stopped at chapter: List Comprehensions
 
+SciPy Lecture notes
+Interrupt: Jan 18, 2017 - Stopped at Scipy lecture notes (2.2 Advanced numpy)
+
+Python/NumPy/SciPy tutorial for Stanford CS231n
+http://cs231n.github.io/python-numpy-tutorial/
+Finished: Jan 16, 2017

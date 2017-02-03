@@ -15,7 +15,11 @@ Marked: Jan 15, 2017
 
 A Guide to Deep Learning by YN**2
 yerevann.com/a-guide-to-deep-learning
-Interrupt: Jan 18, 2017 - Stopped at Scipy lecture notes (2.2 Advanced numpy)
+Interrupt: Jan 18, 2017 -  Stopped at four options for studying deep learning
+
+Deep Learning, Ian Goodfellow
+www.deeplearningbook.org
+Iterrupt: Jan 23, 2017 - Stopped at Chapter 5: Machine Learning basics
 
 Introduction to PCA
 http://www.lauradhamilton.com/introduction-to-principal-component-analysis-pca

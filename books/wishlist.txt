@@ -14,3 +14,6 @@ https://www.amazon.com/Vector-Calculus-Linear-Algebra-Differential/dp/0971576653
 
 Electricity and Magnetism (Berkeley Physics Course)
 https://www.amazon.com/Electricity-Magnetism-Vol-II-Berkeley/dp/0070049084
+
+Functional programming in C++
+https://www.manning.com/books/functional-programming-in-cplusplus?a_aid=FPinCXX&a_bid=441f12cc
